@@ -156,35 +156,54 @@ with t2 as
 )
 select * from t2 where rnk <= 3;
 ```
+✅ Key Business Insights (Data-Driven Takeaways)
 
-## 📈 Key Business Insights
+📊 High Revenue Contribution from Few Pizza Types
 
-1. ✅ **Total Orders & Revenue**:
-   - The total number of orders and total revenue shows the business's volume and performance.
+A small number of pizza types (top 3 by revenue) contribute a large portion of total revenue.
 
-2. ✅ **Top-Selling Pizza Types**:
-   - Identifying the top 5 pizza types helps focus on best-sellers for promotions and inventory management.
+➔ Business Advice: Focus marketing and inventory on these high-performing pizzas to maximize revenue.
 
-3. ✅ **High-Value Product**:
-   - The highest-priced pizza helps determine premium offerings that generate high revenue per order.
+⏰ Peak Ordering Hours Identified
 
-4. ✅ **Popular Pizza Sizes**:
-   - Knowing the most common pizza size ordered helps optimize production and supply chain management.
+Most orders are placed between 12 PM and 3 PM and again between 6 PM and 9 PM.
 
-5. ✅ **Peak Order Hours**:
-   - Peak order times indicate when the business should be most staffed to handle demand.
+➔ Business Advice: Staff peak hours adequately and plan promotions during off-peak times to balance order flow.
 
-6. ✅ **Category Distribution Insights**:
-   - Helps balance inventory across categories and focus marketing efforts.
+🍕 Popular Pizza Sizes & Categories
 
-7. ✅ **Average Pizza Ordered per Day**:
-   - Provides a baseline for daily sales expectations and forecasting.
+Medium size pizzas are the most commonly ordered.
 
-8. ✅ **Revenue Percentage Contribution**:
-   - Helps identify pizzas contributing the most to overall revenue and plan pricing or promotions accordingly.
+Certain categories (e.g., Chicken-based pizzas) dominate the order volume.
 
-9. ✅ **Cumulative Revenue Trend**:
-   - Useful for monitoring growth and spotting seasonal trends.
+➔ Business Advice: Ensure availability of popular sizes and categories, and consider discontinuing underperforming products.
 
-10. ✅ **Top Pizza by Category**:
-    - Helps tailor offerings per customer preference in each category.
+💵 High-Value Premium Product Identified
+
+The highest-priced pizza generates significant revenue despite lower order count.
+
+➔ Business Advice: Promote premium offerings for customers seeking luxury or larger options.
+
+📆 Stable Average Daily Sales
+
+On average, X pizzas are sold per day (based on data).
+
+➔ Business Advice: Use this as a benchmark to forecast future sales and manage inventory accordingly.
+
+📉 Revenue Trends Over Time
+
+Cumulative revenue shows steady growth, with noticeable spikes during certain days.
+
+➔ Business Advice: Investigate why specific days have spikes (e.g., holidays, promotions) and replicate successful strategies.
+
+🏆 Top Pizza Categories by Revenue
+
+Certain categories (e.g., Vegetarian, Chicken) consistently generate more revenue.
+
+➔ Business Advice: Focus advertising efforts and menu development around high-revenue categories.
+
+💡 Revenue Contribution by Pizza Type
+
+A few pizza types contribute a disproportionately high percentage of total revenue.
+
+➔ Business Advice: Consider bundling top pizza types with other products or launching targeted deals.
